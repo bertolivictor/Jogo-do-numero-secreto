@@ -1,4 +1,4 @@
-# 🎮 Jogo do Número Secreto
+# ❓ Jogo do Número Secreto
 
 Bem-vindo ao **Jogo do Número Secreto**! Um projeto divertido e desafiador desenvolvido durante um curso de iniciação em lógica de programação. Este jogo testa suas habilidades de adivinhação e estratégia enquanto você tenta descobrir o número secreto gerado aleatoriamente. A cada tentativa, você recebe dicas para se aproximar da resposta correta. Será que você consegue acertar com o menor número de tentativas? Vamos descobrir!
 
