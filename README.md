@@ -4,7 +4,7 @@ Bem-vindo ao **Jogo do Número Secreto**! Um projeto divertido e desafiador dese
 
 ---
 
-## 🚀 Como Funciona
+## 👨🏻‍🏫 Como Funciona
 
 1. **Número Secreto Gerado**: Ao iniciar o jogo, o sistema gera um número aleatório entre 1 e 100 (ou outro intervalo definido).
 2. **Faça Seu Chute**: Insira um número no campo de entrada e clique em "Chutar".
